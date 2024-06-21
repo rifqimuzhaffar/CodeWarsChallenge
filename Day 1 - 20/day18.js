@@ -1,12 +1,13 @@
 // CODEWARSCHALLENGE 2024
 // DAY 18/366
-// Keep Hydrated!
-// https://www.codewars.com/kata/582cb0224e56e068d800003c
+// Keep up the hoop
+// https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145
 
-// DESCRIPTION
-// Nathan loves cycling.
-// Because Nathan knows it is important to stay hydrated, he drinks 0.5 litres of water per hour of cycling.
-// You get given the time in hours and you need to return the number of litres Nathan will drink, rounded to the smallest value.
+// // DESCRIPTION
+// Alex just got a new hula hoop, he loves it but feels discouraged because his little brother is better than him.
+// Write a program where Alex can input (n) how many times the hoop goes round and it will return him an encouraging message:
+// If Alex gets 10 or more hoops, return the string "Great, now move on to tricks".
+// If he doesn't get 10 hoops, return the string "Keep at it until you get it".
 
 function hoopCount(n) {
   return n >= 10
