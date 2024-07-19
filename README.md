@@ -2,4 +2,4 @@
 
 just for improving my programming logic
 
-- Now At 7kyu
+- Now At 6kyu
